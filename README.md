@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divine69e
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning xcode and java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creating new games
 - 📫 How to reach me email
 
 <!---
